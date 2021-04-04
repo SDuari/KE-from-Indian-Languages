@@ -4,3 +4,5 @@ This repository contains the documents and stopword lists for English language a
 The data can be used to extract keywords in the four langauges. Articles with id '2142' and '2148' are from Hulth2003 dataset, which are originally written in English. Both articles are translated to the three Indian languages using Google Translate. Articles on topics 'animation' and 'covid19' are Wikipedia articles written in the four languages.
 
 Stopword lists are downloaded from Stopwords ISO (Link: https://github.com/stopwords-iso/stopwords-iso) and later updated to include more keywords in the three Indian languages.
+
+Keyword extraction algorithms that can be applied on these documents are included in https://github.com/SDuari/sCAKE-and-LAKE and https://github.com/SDuari/Supervised-Keyword-Extraction.
