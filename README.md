@@ -5,4 +5,6 @@ The data can be used to extract keywords in the four langauges. Articles with id
 
 Stopword lists are downloaded from Stopwords ISO (Link: https://github.com/stopwords-iso/stopwords-iso) and later updated to include more keywords in the three Indian languages.
 
-Keyword extraction algorithms that can be applied on these documents are included in https://github.com/SDuari/sCAKE-and-LAKE and https://github.com/SDuari/Supervised-Keyword-Extraction.
+Implementations of keyword extraction algorithms that can be applied on these documents are included in the following repositories.
+* LAKE: https://github.com/SDuari/sCAKE-and-LAKE 
+* CnAKE: https://github.com/SDuari/Supervised-Keyword-Extraction.
